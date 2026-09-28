@@ -91,8 +91,12 @@ https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="Spor",A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
-#EXTINF:-1 tvg-id="HTSpor.tr" tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png" group-title="Spor",HT Spor
-https://ciner-live.ercdn.net/htspor/htspor.m3u8
+#EXTINF:0 tvg-id="HT SPOR.tr" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" ,HT Spor
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,beIN Sports Haber
+https://cdn.tecostream.xyz/Bein_Spor_Haber.m3u8
+#EXTINF:-1 tvg-id="LocalNow_beINSPORTSXTRA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/626c3b244f859656ba284f02" ,beIN SPORTS XTRA
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TJKTV.tr" tvg-logo="http://assets.tvcdn.net/bcbd8593-677e-438a-9077-abe1cce5ffc2.png" group-title="Spor",TJK TV
 https://tjktv-live.tjk.org/tjktv.m3u8
 #EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Muzik",TRT Muzik
